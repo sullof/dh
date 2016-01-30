@@ -37,7 +37,7 @@ d43e5e3bdff9  static:latest       "node server.js"      ...  web
 fb78738c2dcd  nginx-proxy:latest  "/app/docker-entrypo  ...  proxy
 ```
 
-you could a access the `web` container with:
+you can open a shell in the `web` container with:
 
 ```
 dh d43e5e3bdff9
