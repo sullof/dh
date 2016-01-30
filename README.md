@@ -7,7 +7,7 @@ A helper to make you life easier with Docker.
 The shortest way:
 
 ```
-curl -sSL https://raw.githubusercontent.com/sullof/dh/master/install.sh | sudo sh
+curl -sSL https://raw.githubusercontent.com/sullof/dh/master/install.sh | sudo bash
 ```
 
 If you don't like it, here is the longest:
