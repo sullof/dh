@@ -51,7 +51,9 @@ dh web
 
 ## History
 
-Ver 0.1, July 12th, 2014 - Start with the default _open a shell_ command.
+July 12th, 2014 - I wrote dh 0.1 only w/ support for the _open a shell_ command.
+
+January 30th, 2016 - I created this repo to make easier to install dh on new servers.
 
 ## Credits
 
