@@ -3,7 +3,7 @@
 is=$(which nsenter)
 if [[ $is == "" ]]
 then
-	docker run -v /usr/local/bin:/target jpetazzo/nsenter
+  docker run -v /usr/local/bin:/target jpetazzo/nsenter
 fi
 
 if [[ ! -f "dh.sh" ]]
